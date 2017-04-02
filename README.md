@@ -1,5 +1,7 @@
 # marko-router
 
+[![Join the chat at https://gitter.im/marko-router/Lobby](https://badges.gitter.im/marko-router/Lobby.svg)](https://gitter.im/marko-router/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 [![NPM version][npm-image]][npm-url]
 [![Build status][ci-image]][ci-url]
 [![Dependency Status][daviddm-image]][daviddm-url]
