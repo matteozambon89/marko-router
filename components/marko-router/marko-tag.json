@@ -1,0 +1,8 @@
+{
+	"@rootState": "string",
+	"@configPath": "string",
+	"@debug": "boolean",
+	"@componentPath": "string",
+	"@routeDelimiter": "string",
+	"@loadingState": "string"
+}

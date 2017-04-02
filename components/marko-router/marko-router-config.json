@@ -1,0 +1,20 @@
+{
+	// "rootState": {
+	// 	"_base": "/root",
+	// 	"_default": "myState",
+	// 	"myState": {
+	// 		"path": "/state",
+	// 		"component": {
+	// 			"key": "rootState-route-myState",
+	// 			"params": {}
+	// 		}
+	// 	},
+	// 	"notfound": {
+	// 		"path": "*",
+	// 		"component": {
+	// 			"key": "rootState-route-notfound",
+	// 			"params": {}
+	// 		}
+	// 	}
+	// }
+}

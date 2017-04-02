@@ -1,0 +1,6 @@
+{
+	"dependencies": [
+		"require: marko-router/browser.json",
+		"require: ./marko-router-config.json"
+	]
+}

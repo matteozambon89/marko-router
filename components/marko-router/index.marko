@@ -1,0 +1,14 @@
+<div key="marko-router">
+	<if(!state.currentState)>
+		$ const view = require(state.componentPath + state.rootState + state.routeDelimiter + state.loadingState + '/index.marko')
+		$ const componentParams = state.componentParams
+
+		<include(view, state.componentParams) />
+	</if>
+	<else>
+		$ const view = require(state.componentPath + state.rootState + state.routeDelimiter + state.currentState + '/index.marko')
+		$ const componentParams = state.componentParams
+
+		<include(view, state.componentParams) />
+	</else>
+</div>
