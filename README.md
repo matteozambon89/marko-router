@@ -240,7 +240,7 @@ Essentially the `marko-router-config.json` has the following constraints:
 
 ## Doubts
 
-Please check my sample at [sample-marko-router](https://github.com/matteozambon89/sample-marko-router)
+Please check my sample at [marko-sample-router](https://github.com/matteozambon89/marko-sample-router)
 
 ## Credits
 
